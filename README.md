@@ -22,7 +22,7 @@ This project is a simple HTML and CSS-based website for promoting the Cat Fancy 
 ### Key Features!
 - **Responsive Design:** The website is designed to be responsive, ensuring it looks good on various devices and screen sizes.
 - **Navigation Menu:** Easy-to-use navigation menu with links to different sections of the website.
-- **Event Information:** Detailed description of the Cat Fancy Event 2014, including date, location, and highlights.
+- **Event Information:** Detailed description of the Cat Fancy Event, including date, location, and highlights.
 - **Featured Cats:** A section showcasing the featured cats with their images and brief descriptions.
 
 ### Usage
