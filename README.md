@@ -1,5 +1,6 @@
 # Project_0:Cat Fancy Event Website
- ![Capture2](https://github.com/user-attachments/assets/c5f4464f-85f8-4ab1-be71-9641f4311861)
+![Capture0](https://github.com/user-attachments/assets/e39754d2-6181-43d8-afd1-de9b1ce46752)
+
 ## Description
 
 This project is a simple HTML and CSS-based website for promoting the Cat Fancy Event. The website provides information about the event, including featured cats, event details, and navigation links.
